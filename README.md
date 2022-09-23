@@ -5,7 +5,7 @@
 - 💻 Longtime computer enthusiast
 - 🛠 Worked as a Mobile Software Engineer, Developer, and Designer in the industry
 - 📱 Interested in **UI** and **UX**
-- 🏆 Contributed to my goals
+- 🏆 Commited to my goals
 - 💡 Inspired by a quote from Steve Jobs:
 > Because the people who are crazy enough to think they can change the world, are the ones who do.
 
