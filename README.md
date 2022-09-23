@@ -29,8 +29,9 @@
            width="4%" 
            src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-1024.png">
     </a>
-    
-    <a href="https://medium.com/@TheUnitedTwins/">
+   
+  
+   <a href="https://medium.com/@TheUnitedTwins/">
       <img align="left" 
            alt="twitter" 
            title="Twitter"
