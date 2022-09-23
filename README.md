@@ -1,13 +1,14 @@
 ### I am ...
 - 👨🏻‍💻 Graduated **Computer Engineering** student
 - 👾 Interested in **Software Enginnering**
-- ⚡ Driven by innovation and creativity
+- ⚡ Driven by **innovation** and **creativity**
 - 💻 Longtime computer enthusiast
 - 🛠 Worked as a Mobile Software Engineer, Developer, and Designer in the industry
-- 📱 Interested in UI and UX
+- 📱 Interested in **UI** and **UX**
 - 🏆 Contributed to my goals
 - 💡 Inspired by a quote from Steve Jobs:
 > Because the people who are crazy enough to think they can change the world, are the ones who do.
+
 
 ---
 
