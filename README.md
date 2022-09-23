@@ -34,10 +34,18 @@
   
    <a href="https://medium.com/@TheUnitedTwins/">
       <img align="left" 
-           alt="twitter" 
-           title="Twitter"
+           alt="medium" 
+           title="medium"
            width="4%" 
            src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png">
+    </a>
+    
+    <a href="mailto: navidallgray@gmail.com">
+        <img align="left" 
+             alt="email"
+             title="Email"
+             width="4%" 
+             src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png">
     </a>
     
 </p>
