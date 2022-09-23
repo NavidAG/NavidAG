@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**NavidAG/navidag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ...
+- 👨🏻‍💻 Graduated **Computer Engineering** student
+- 👾 Interested in **Software Enginnering**
+- ⚡ Driven by innovation and creativity
+- 💻 Longtime computer enthusiast
+- 🛠 Worked as a Software Engineer, Developer, and Designer in the industry
+- 🏆 Contributed to my goals
+- 💡 Inspired by a quote from Steve Jobs:
+> Because the people who are crazy enough to think they can change the world, are the ones who do.
+</br>
+</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+<!-- Taken from https://github.com/anuraghazra/github-readme-stats -->
+    <a href="#">
+        <img
+            width="48%"
+            src="https://github-readme-stats.vercel.app/api?username=navidag&theme=radical&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true"
+        />
+    </a>
+</p>
