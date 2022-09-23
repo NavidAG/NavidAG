@@ -18,7 +18,7 @@ I am ...
     <a href="#">
         <img
             width="48%"
-            src="https://github-readme-stats.vercel.app/api?username=navidag&theme=radical&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true"
+            src="https://github-readme-stats.vercel.app/api?username=navidag&theme=radical&count_private=true&show_icons=true&disable_animations=false&include_all_commits=true"
         />
     </a>
 </p>
