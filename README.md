@@ -63,3 +63,6 @@
         />
     </a>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="navid-all-gharaee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/navid-all-gharaee?trk=profile-badge">Navid All Gharaee</a></div>
+              
